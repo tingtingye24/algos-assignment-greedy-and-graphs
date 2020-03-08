@@ -1,5 +1,5 @@
 # Greedy Algorithms & Graphs Assignment (Due May 10th 11:59PM)
-
+CS323
 First, instructions which you MUST follow exactly:
 * git fork this repository to your own github account, then clone it from there
 * work on the java files in your preferred editor, but the only changes you introduce should be in the java files. I should not get any extra project files.
